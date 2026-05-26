@@ -6,12 +6,6 @@
 
 ---
 
-## Autor
-
-Edgar Corzo y Janner de la Hoz
-
----
-
 # 🎯 Objetivo General
 
 Como usuario del sistema, quiero administrar tareas mediante un tablero Kanban para organizar el flujo de trabajo según su estado y rol dentro de la aplicación.
@@ -240,3 +234,11 @@ Como usuario del sistema, quiero administrar tareas mediante un tablero Kanban p
 - README con instrucciones de ejecución
 - Evidencia del manejo de roles
 - Evidencia del funcionamiento del Kanban
+
+---
+
+## Autor
+
+Edgar Corzo y Janner de la Hoz
+
+---
