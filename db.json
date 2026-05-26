@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dexter Morgan",
+      "email": "admin@riwiflow.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Janner Hoz",
+      "email": "coder@riwiflow.com",
+      "password": "coder123",
+      "role": "coder"
+    },
+    {
+      "id": 3,
+      "name": "Edgar Corzo",
+      "email": "coder2@riwiflow.com",
+      "password": "edgar123",
+      "role": "coder"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "User Flow Mapping",
+      "description": "Define the end-to-end journey for the new onboarding experience.",
+      "status": "todo",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "title": "Social Media Assets",
+      "description": "Prepare Q3 promotional graphics for LinkedIn and Twitter.",
+      "status": "in-progress",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "API Documentation",
+      "description": "Updating the public API docs for the v2.4 release next week.",
+      "status": "in-progress",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "title": "Competitor Analysis",
+      "description": "Reviewing the workflow engines of Top 3 competitors.",
+      "status": "in-review",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "Pricing Tier Update",
+      "description": "Final sign-off required for the Enterprise plan structural changes.",
+      "status": "in-review",
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "title": "Privacy Policy v2",
+      "description": "Review GDPR compliance updates for the European expansion.",
+      "status": "in-review",
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "title": "Workspace Setup",
+      "description": "Configured the new Riwiflow cloud environment for the dev team.",
+      "status": "done",
+      "userId": 2
+    },
+    {
+      "id": 8,
+      "title": "Style Guide v1",
+      "description": "Baseline UI tokens and shared components library established.",
+      "status": "done",
+      "userId": 1
+    },
+    {
+      "title": "ia for devs",
+      "description": "utilizamos ia pa esta vaina",
+      "status": "in-review",
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "title": "dylan",
+      "description": "dasdadsds",
+      "status": "in-review",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "title": "Haz 13 kills en Fortnite",
+      "description": "Mañana",
+      "status": "done",
+      "userId": 3,
+      "id": 11
+    },
+    {
+      "title": "Sobrevive 30 minutos",
+      "description": "hola mundo",
+      "status": "todo",
+      "userId": 3,
+      "id": 12
+    }
+  ]
+}
