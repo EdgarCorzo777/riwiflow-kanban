@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Dexter Morgan",
+      "email": "admin@riwiflow.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Janner Hoz",
+      "email": "coder@riwiflow.com",
+      "password": "coder123",
+      "role": "coder"
+    },
+    {
+      "id": "3",
+      "name": "Edgar Corzo",
+      "email": "coder2@riwiflow.com",
+      "password": "edgar123",
+      "role": "coder"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "User Flow Mapping",
+      "description": "Define the end-to-end journey for the new onboarding experience.",
+      "status": "todo",
+      "userId": 2
+    },
+    {
+      "id": "2",
+      "title": "Social Media Assets",
+      "description": "Prepare Q3 promotional graphics for LinkedIn and Twitter.",
+      "status": "in-progress",
+      "userId": 2
+    },
+    {
+      "id": "3",
+      "title": "API Documentation",
+      "description": "Updating the public API docs for the v2.4 release next week.",
+      "status": "in-progress",
+      "userId": 2
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
