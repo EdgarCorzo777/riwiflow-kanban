@@ -2,7 +2,7 @@ const API_URL = 'http://localhost:3000';
 const state = { users: [], tasks: [], currentUser: null };
 
 const userAvatars = {
-  1: "https://lh3.googleusercontent.com/aida-public/AB6AXuC2-sF_Qd9jEF33fUrS3vMvdoA8rbw2_a6jzv7r_6oDikCkrertidHwLgqAtWuKvLnRx7Lcsi79ZYj4FBaL_pETFxeyeF27_PhXy-KnuioiYgCwYTKcWDEuZoRksSf8Jb0_ZmsxJkpTFGZ2bW8aTl5fhcA4DOHQQal_vu1KVBcizoM56dHRc7Ce_vkUul2aL96DSeDmqR4YdfGUuoIQkUF_F8AX45U05tmCFg7YyPH6xtgAx7e31u5_5e2rQxm_tgBEgnhV-LsqsEDH",
+  1: "https://i.pinimg.com/736x/df/6f/f1/df6ff18dad88a147fafffab7f3616199.jpg",
   2: "https://lh3.googleusercontent.com/aida-public/AB6AXuD8_17Xd9poBFvBCwXx25-JDPMSaFQNMUYLnyIhJkS_7NrlsW0MG9R2vorE3CfNKMkE4oX4L6dopgc_F9_Mj5ieYPiBlGxLCK7vM7uFvfyHpx3ptCHdVbdU7CMDBms9ZPGXFfahQnM9P9g9yXvOtdU1ggtRwk5DPOV-sVnlAxxRUtrtEM23JonEusSqFOP1BU6Xt0wVnfWMpW6XxnekjrGmBQ0Qz4NJO8ogLugD809Cxp7wA4UIkAEYeZWpAJr8ZcVWbd46c9Rh1GI3",
   3: "https://lh3.googleusercontent.com/aida-public/AB6AXuAG8Jxa-wc0IqXzwH5Eb-olQWjFfMH6FQefHNg8x204_qA5sVV-TBUkIl8wK1XSgpI1pH94oGq5yB9UyZeJy-d3z2R12xUy54PTHs5JoHE30eaqCX5BeKws1PCMN0TntyKW0UPojlBnG1xGY4-UQTrCOIhR7cF_zb7rj-vnemMaZQM9Xzk-F73_Q6MYD0msF1j-Tkjyrn2XQvujydcVmhnZnMOGv6P1Ep9OaJYUghQE93UdvLGAJptOXzhk3FK3LGn988gRhSTXAiBu"
 };
