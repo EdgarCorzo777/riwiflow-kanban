@@ -15,11 +15,11 @@
       "role": "coder"
     },
     {
+      "id": "3",
       "name": "John Pork",
       "email": "john@riwiflow.com",
       "password": "dev123",
-      "role": "coder",
-      "id": "1EqeOv5eDco"
+      "role": "coder"
     }
   ],
   "tasks": [
@@ -28,14 +28,14 @@
       "title": "User Flow Mapping",
       "description": "Define the end-to-end journey for the new onboarding experience.",
       "status": "done",
-      "userId": "1EqeOv5eDco",
+      "userId": "3",
       "starred": false
     },
     {
       "id": "2",
       "title": "Social Media Assets",
       "description": "Prepare Q3 promotional graphics for LinkedIn and Twitter.",
-      "status": "todo",
+      "status": "done",
       "userId": "2",
       "starred": false
     },
@@ -51,8 +51,8 @@
       "id": "4",
       "title": "Competitor Analysis",
       "description": "Reviewing the workflow engines of Top 3 competitors.",
-      "status": "in review",
-      "userId": "1EqeOv5eDco",
+      "status": "in progress",
+      "userId": "3",
       "starred": false
     },
     {
@@ -60,14 +60,14 @@
       "title": "Pricing Tier Update",
       "description": "Final sign-off required for the Enterprise plan structural changes.",
       "status": "in progress",
-      "userId": "1EqeOv5eDco",
+      "userId": "3",
       "starred": false
     },
     {
       "id": "6",
       "title": "Privacy Policy v2",
       "description": "Review GDPR compliance updates for the European expansion.",
-      "status": "done",
+      "status": "todo",
       "userId": "2",
       "starred": true
     },
@@ -75,17 +75,17 @@
       "id": "7",
       "title": "Workspace Setup",
       "description": "Configured the new Riwiflow cloud environment for the dev team.",
-      "status": "in progress",
+      "status": "in review",
       "userId": "2",
       "starred": false
     },
     {
-      "title": "15 kills en free fire",
-      "description": "No usar franco",
+      "title": "Advincula?",
+      "description": "Quiero keke",
       "status": "todo",
-      "userId": "2",
+      "userId": "1",
       "starred": false,
-      "id": "UXFeAsMvqFs"
+      "id": "IRN9-mnXU0g"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
